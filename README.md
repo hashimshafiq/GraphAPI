@@ -3,5 +3,5 @@ Reporting Using JFree Chart Graph (Two lines)
 SQLITE Database
 
 ## Required JAR Files
-JFreeChart Graph Jar File \n
-SQLITE jar File
+1. JFreeChart Graph Jar File
+2. SQLITE jar File
