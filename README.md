@@ -1,5 +1,5 @@
 # GraphAPI
-Reporting Using JFree Chart Graph (Two lines)
+Reporting and comparison between two datasets getting from database and plot them Using JFree Chart Graph (Two lines)
 SQLITE Database
 
 ## Required JAR Files
