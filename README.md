@@ -3,5 +3,5 @@ Reporting and comparison between two datasets getting from database and plot the
 SQLITE Database
 
 ## Required JAR Files
-1. JFreeChart Graph Jar File
+1. JFreeChart Graph Jar File (https://sourceforge.net/projects/jfreechart/files/)
 2. SQLITE jar File
