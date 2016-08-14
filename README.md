@@ -5,4 +5,4 @@ SQLITE Database
 ## Required JAR Files
 1. JFreeChart Graph Jar File (https://sourceforge.net/projects/jfreechart/files/)
 2. SQLITE jar File
-3. Awsome work
+
